@@ -1,7 +1,20 @@
-# Tu primera red neuronal
-Este codigo, actualizado al 4 de marzo de 2021, sirve como soporte para el video "Tu primera red neuronal": 
-https://youtu.be/UNFFLJPW7KQ
+# Tu primer red neuronal
+Este código implementa una red neuronal con una capa de entrada y una capa de salida.
+De este modo sugiere al usuario que color de fondo y color de letra debe utilizar.
+Si quieres más información sobre como realizar tu primer red neuronal, te invito a ver el video ["Tu primara red neuronal"](https://www.youtube.com/watch?v=UNFFLJPW7KQ)
 
-Si deja de funcionar por algun motivo, deja un issue en github o un comentario en el video
 
-Ya no es necesario bajar la libreria jscolor, ya viene como parte del codigo usando un CDN :)
+## Dependencias
+CDN: [jscolor](https://jscolor.com/)
+> Instalación
+```js
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.4.5/jscolor.min.js"></script>
+```
+> Red Neuroanal - brainJS
+```js
+    <script type="text/javascript" src="https://unpkg.com/brain.js"></script>
+```
+
+
+## Autor
+[Ringa Tech](https://https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ)
