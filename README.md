@@ -8,8 +8,13 @@ Si quieres más información sobre como realizar tu primer red neuronal, te invi
 CDN: [jscolor](https://jscolor.com/)
 > Instalación
 ```js
-    script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.4.5/jscolor.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.4.5/jscolor.min.js"></script>
 ```
+> Red Neuroanal - brainJS
+```js
+    <script type="text/javascript" src="https://unpkg.com/brain.js"></script>
+```
+
 
 ## Autor
 [Ringa Tech](https://https://www.youtube.com/channel/UCm9QZ70KuIVShztZ7HmE4NQ)
